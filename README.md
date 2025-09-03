@@ -1,7 +1,3 @@
-Got it 👍 Since this is a simple Swift BMI calculator app for learning segues and transitions, I’ll prepare a clean and minimal README.md file for GitHub. You can later add badges, screenshots, or demo GIFs if you want.
-
-Here’s a good starter README:
-
 # 📱 BMI Calculator (Swift)
 
 A simple **BMI (Body Mass Index) Calculator** iOS app built in **Swift**.  
