@@ -36,7 +36,7 @@ BMI-Calculator/<br>
 ## 📲 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/BMI-Calculator.git
+   git clone https://github.com/aradhya0507/BMI-Calculator-using-Swift-.git
 
 2.	Open the project in Xcode.
 3.	Build and run on a simulator or physical device.
