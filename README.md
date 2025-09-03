@@ -41,16 +41,14 @@ BMI-Calculator/<br>
 2.	Open the project in Xcode.
 3.	Build and run on a simulator or physical device.
 
-⸻
 
 📖 Learning Focus
 
-This app mainly demonstrates:
-	•	Using segues for screen transitions
-	•	Passing data between ViewControllers
-	•	Simple user input handling in Swift
-
-⸻
+This app mainly demonstrates:<br>
+	•	Using segues for screen transitions<br>
+	•	Passing data between ViewControllers<br>
+	•	Simple user input handling in Swift<br>
+ 
 
 👨‍💻 Author
 Aradhya Bhagwat
