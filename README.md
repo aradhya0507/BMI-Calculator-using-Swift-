@@ -44,11 +44,12 @@ BMI-Calculator/<br>
 
 📖 Learning Focus
 
+
 This app mainly demonstrates:<br>
 	•	Using segues for screen transitions<br>
 	•	Passing data between ViewControllers<br>
 	•	Simple user input handling in Swift<br>
  
-
-👨‍💻 Author
+<br>
+👨‍💻 Author<br>
 Aradhya Bhagwat
